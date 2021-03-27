@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-julsweb-dev-190520-authRole",
+      "UnauthRoleArn": "arn:aws:iam::521751450347:role/amplify-julsweb-dev-190520-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::521751450347:role/amplify-julsweb-dev-190520-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-julsweb-dev-190520-deployment",
+      "UnauthRoleName": "amplify-julsweb-dev-190520-unauthRole",
+      "StackName": "amplify-julsweb-dev-190520",
+      "StackId": "arn:aws:cloudformation:eu-west-2:521751450347:stack/amplify-julsweb-dev-190520/64a39890-8f2f-11eb-a42c-02f44636bb76",
+      "AmplifyAppId": "d8hn97s5v46rc"
+    }
+  }
+}
